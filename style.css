@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 3rem auto;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+}
+
+.container .heading {
+  text-align: center;
+}
+
+.book {
+  padding: 1rem 0;
+}
+
+.book p,
+.book-data .form-control {
+  padding: 0.5rem 0;
+}
+
+.book-data .form-control input {
+  padding: 0.5rem;
+}
